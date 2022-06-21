@@ -1,2 +1,0 @@
-# quinhua.github.io
-blog
